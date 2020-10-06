@@ -1,5 +1,7 @@
 # Footwear-Billing-System
 --------------------------------------------
+INTRODUCTION
+--------------
 Footwear-Billing-System is E-Commerce based website designed in .net technology. 
 This is a web application that allows owner of Footwear-Billing-System Shop to take his business online 24 hrs. 
 Owner Module helps owner to manage Products (add, delete, edit) in his Shop. 
