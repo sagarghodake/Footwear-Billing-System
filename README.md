@@ -5,6 +5,25 @@ This is a web application that allows owner of Footwear-Billing-System Shop to t
 Owner Module helps owner to manage Products (add, delete, edit) in his Shop. 
 User module will allow customer to interact with owner indirectly provides searching, adding product to cart, managing cart, placing order.
 This will help small shop owners to increase their profit.
+
+•	Hardware Requriments-
+---------
+	Processor – Pentium core and above.
+
+	Processor – 1.86GH and above.
+
+	RAM – 1GB and above.
+
+	Hard Disk – 20 GB.
+
+•	Software Requriments –
+--------
+	Frontend Used – Microsoft Visual Studio 2010
+
+	Backend Used – SQL Server Management 2008
+
+•	Operating System – Windows 2007 and Above.
+
 -----------------------------------------------------------------------------------------------
 ![OQCLP60](https://user-images.githubusercontent.com/60310009/95238684-7be0aa00-0827-11eb-8d49-ca8532c1de6a.jpg)
 ------------------------------------------
